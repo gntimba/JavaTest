@@ -19,8 +19,7 @@ https://fantasy.premierleague.com/api/bootstrap-static/
 
 Both will need to be integrated with in order to complete the requirement.
 
-You are allowed to make whatever coding change you wish.
-You can make whatever architectural changes you wish.
+You can make whatever coding and architecture changes you wish.
 
 #### Please refactor the code to what you would consider acceptable production quality by your standards.
 
