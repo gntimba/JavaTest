@@ -5,7 +5,7 @@
 ## Getting Started
 
 You've just inherited a project from a junior developer.  
-The requirement is to <b>implement an API</b> for the screen below
+The requirement is to <b>DEVELOP an API</b> for the screen below
 
 <img src="https://www.fluidity.solutions/images/test/fixtures.png"/>
 
