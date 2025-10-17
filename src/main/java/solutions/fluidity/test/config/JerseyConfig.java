@@ -4,6 +4,7 @@ import org.glassfish.jersey.server.ResourceConfig;
 import org.springframework.context.annotation.Configuration;
 import solutions.fluidity.test.BootstrapResource;
 import solutions.fluidity.test.FixturesResource;
+import solutions.fluidity.test.GamesResource;
 
 import javax.ws.rs.ApplicationPath;
 
@@ -18,6 +19,7 @@ class JerseyConfig extends ResourceConfig {
 
         register(BootstrapResource.class);
         register(FixturesResource.class);
+        register(GamesResource.class);
 
     }
 }
